@@ -77,4 +77,4 @@ GenoMatch demonstrates how AI can support preventive healthcare by estimating in
 
 ---
 
-live demo:
+live demo:https://genomatch.streamlit.app/
